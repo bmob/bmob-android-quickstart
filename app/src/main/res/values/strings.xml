@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bmob快速入门</string>
+    <string name="add">添加</string>
+    <string name="get">查询</string>
+    <string name="edit">编辑</string>
+    <string name="del">删除</string>
+</resources>
